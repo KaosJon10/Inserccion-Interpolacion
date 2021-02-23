@@ -1,0 +1,2 @@
+Numero a buscar : 6
+ELEMENTO ENCONTRADO EN LA POSICION -> 2
